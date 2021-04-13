@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1205px" height="762px" viewBox="0 0 1205 762" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>microservices-decomposed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="50" rx="8"></rect>
+        <rect id="path-2" x="0" y="0" width="300" height="50" rx="8"></rect>
+        <rect id="path-3" x="20" y="25" width="325" height="201" rx="8"></rect>
+        <rect id="path-4" x="10" y="12" width="325" height="201" rx="8"></rect>
+        <path d="M0,28 L173,28 L173,117.97001 C170.333333,140.462512 141.5,152.125292 86.5,152.958347 C31.5,153.791403 2.66666667,142.128624 0,117.97001 L0,28 Z" id="path-5"></path>
+        <rect id="path-6" x="0" y="0" width="200" height="50" rx="8"></rect>
+        <rect id="path-7" x="0" y="0" width="200" height="50" rx="8"></rect>
+        <rect id="path-8" x="0" y="0" width="300" height="75" rx="8"></rect>
+        <rect id="path-9" x="4" y="8" width="225" height="117" rx="8"></rect>
+        <rect id="path-10" x="0" y="0" width="225" height="117" rx="8"></rect>
+        <polyline id="path-11" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polyline>
+        <polygon id="path-13" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polygon>
+        <polyline id="path-15" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polyline>
+        <polyline id="path-17" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polyline>
+        <polygon id="path-19" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polygon>
+        <polyline id="path-21" points="0 0.35418552 58.8317447 0.35418552 58.8317447 59.6153846 0 59.6153846"></polyline>
+        <path d="M0,8.09248555 L50,8.09248555 L50,34.0953786 C49.2292871,40.5961019 40.8959538,43.9668473 25,44.2076148 C9.10404624,44.4483823 0.770712909,41.0776369 0,34.0953786 L0,8.09248555 Z" id="path-23"></path>
+        <rect id="path-24" x="6" y="8" width="225" height="117" rx="8"></rect>
+        <rect id="path-25" x="0" y="0" width="225" height="117" rx="8"></rect>
+        <path d="M0,8.09248555 L50,8.09248555 L50,34.0953786 C49.2292871,40.5961019 40.8959538,43.9668473 25,44.2076148 C9.10404624,44.4483823 0.770712909,41.0776369 0,34.0953786 L0,8.09248555 Z" id="path-26"></path>
+        <rect id="path-27" x="6" y="8" width="147" height="117" rx="8"></rect>
+        <rect id="path-28" x="0" y="0" width="147" height="117" rx="8"></rect>
+        <rect id="path-29" x="6" y="8" width="147" height="117" rx="8"></rect>
+        <rect id="path-30" x="0" y="0" width="147" height="117" rx="8"></rect>
+        <path d="M0,8.09248555 L50,8.09248555 L50,34.0953786 C49.2292871,40.5961019 40.8959538,43.9668473 25,44.2076148 C9.10404624,44.4483823 0.770712909,41.0776369 0,34.0953786 L0,8.09248555 Z" id="path-31"></path>
+        <path d="M0,8.09248555 L50,8.09248555 L50,34.0953786 C49.2292871,40.5961019 40.8959538,43.9668473 25,44.2076148 C9.10404624,44.4483823 0.770712909,41.0776369 0,34.0953786 L0,8.09248555 Z" id="path-32"></path>
+        <rect id="path-33" x="6" y="8" width="139" height="117" rx="8"></rect>
+        <rect id="path-34" x="0" y="0" width="139" height="117" rx="8"></rect>
+        <path d="M0,8.09248555 L50,8.09248555 L50,34.0953786 C49.2292871,40.5961019 40.8959538,43.9668473 25,44.2076148 C9.10404624,44.4483823 0.770712909,41.0776369 0,34.0953786 L0,8.09248555 Z" id="path-35"></path>
+        <polygon id="path-36" points="427 247.240343 534 247.240343 534 219 591.5 275.480687 534 331.5 534 301.5 427 301.5"></polygon>
+    </defs>
+    <g id="Icons,-banners,-etc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cog-diagram" transform="translate(-136.000000, -202.000000)">
+            <g id="microservices-decomposed" transform="translate(136.000000, 202.000000)">
+                <path d="M177,45.5 L177,614.5" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M846,45.5 L846,435" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M832,424 L562,622" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M832,424 L756,627" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M832,424 L956,613" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M832,424 L1120,617" id="Line-4" stroke="#334960" stroke-width="4" stroke-linecap="square"></path>
+                <g id="Group" transform="translate(85.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#CBE4FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="199" height="49" rx="8"></rect>
+                    </g>
+                    <text id="Client-browser" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="24" y="32">Client browser</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(23.000000, 149.000000)">
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="299" height="49" rx="8"></rect>
+                    </g>
+                    <text id="Web-server" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="93" y="32">Web server</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(0.000000, 298.000000)">
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#000000" stroke-width="1" x="20.5" y="25.5" width="324" height="200" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#000000" stroke-width="1" x="10.5" y="12.5" width="324" height="200" rx="8"></rect>
+                    </g>
+                    <text id="Application-server" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="76" y="42">Application server</tspan>
+                    </text>
+                    <text id="Monolithic-WAR-file" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="27.779" y="121">Monolithic</tspan>
+                        <tspan x="34.745" y="139">WAR file</tspan>
+                    </text>
+                    <rect id="Rectangle-27" fill="#415A80" x="128" y="70" width="170" height="125"></rect>
+                    <text id="Storefront-Catalog-R" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="16" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="177.056" y="89">Storefront</tspan>
+                        <tspan x="184.88" y="110">Catalog</tspan>
+                        <tspan x="146.008" y="131">Recommendations</tspan>
+                        <tspan x="179.912" y="152">Inventory</tspan>
+                        <tspan x="191.656" y="173">Billing</tspan>
+                    </text>
+                    <g id="websphere-ico">
+                        <circle id="Oval-16" fill="#6D4CAB" cx="27.5" cy="27.5" r="27.5"></circle>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.8928571" r="17.6785714"></circle>
+                        <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.1071429" rx="17.6785714" ry="5.10714286"></ellipse>
+                        <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="28.2857143" cy="27.8928571" rx="7.85714286" ry="17.6785714"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(86.000000, 592.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#A3C2FD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499983215,28.5 L0.49698153,117.915152 C3.124619,141.720182 31.7231014,153.287966 86.4924276,152.458405 C141.263799,151.628812 169.878194,140.054591 172.5,117.97001 L172.5,28.5 L0.499983215,28.5 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="86.5" cy="28.5" rx="86.5" ry="28.5"></ellipse>
+                    <text id="Database-server" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="37.2345" y="97">Database</tspan>
+                        <tspan x="54.519" y="120">server</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(742.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#CBE4FF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="199" height="49" rx="8"></rect>
+                    </g>
+                    <text id="Client-browser" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="24" y="32">Client browser</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(742.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#CBE4FF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="199" height="49" rx="8"></rect>
+                    </g>
+                    <text id="Client-browser" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="24" y="32">Client browser</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(694.000000, 137.000000)">
+                    <g id="Rectangle">
+                        <use fill="#63B1A0" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="299" height="74" rx="8"></rect>
+                    </g>
+                    <text id="Gateway" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="106" y="44">Gateway</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(729.000000, 324.000000)">
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <rect stroke="#000000" stroke-width="1" x="4.5" y="8.5" width="224" height="116" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="224" height="116" rx="8"></rect>
+                    </g>
+                    <text id="Storefront-service" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="61.768" y="30">Storefront </tspan>
+                        <tspan x="76.3615" y="53">service</tspan>
+                    </text>
+                </g>
+                <g id="websphere-ico" transform="translate(661.000000, 324.000000)">
+                    <circle id="Oval-16" fill="#6D4CAB" cx="27.5" cy="27.5" r="27.5"></circle>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.8928571" r="17.6785714"></circle>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.1071429" rx="17.6785714" ry="5.10714286"></ellipse>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="28.2857143" cy="27.8928571" rx="7.85714286" ry="17.6785714"></ellipse>
+                </g>
+                <g id="Logo" transform="translate(654.000000, 387.000000)">
+                    <path d="M18.8531062,31.851711 C18.8531062,34.0443298 19.2755978,36.1703196 20.1102132,38.1718184 C20.9163169,40.104935 22.069745,41.8416714 23.5402578,43.3329327 C23.8625265,43.6599406 24.196891,43.9720447 24.5424875,44.2683682 L24.5476714,19.4315469 C24.200347,19.7287472 23.8642545,20.0417279 23.5402578,20.3704893 C22.069745,21.8617506 20.9163169,23.598487 20.1102132,25.5316035 C19.2755978,27.5331024 18.8531062,29.6590922 18.8531062,31.851711" id="Fill-1" fill="#94A3AB"></path>
+                    <path d="M46.1693938,20.3704893 C44.699745,18.8792279 42.9881787,17.707961 41.0830783,16.8900028 C39.1105867,16.0439904 37.0154083,15.6144089 34.8545666,15.6144089 C32.9702021,15.6144089 31.135085,15.9414169 29.388959,16.5866657 L50.6163559,29.0278705 C50.408998,27.8294259 50.0694496,26.660789 49.5994384,25.5316035 C48.7933347,23.598487 47.6390426,21.8617506 46.1693938,20.3704893" id="Fill-3" fill="#00B29F"></path>
+                    <path d="M27.4214785,17.4687981 C27.4180226,17.4705515 27.4137026,17.4731816 27.4102467,17.474935 L35.2103581,31.1838433 L50.8425488,31.1838433 C50.8356368,31.0102574 50.8261329,30.8366714 50.8140371,30.6639621 L27.8914897,17.2285831 C27.7333793,17.3066092 27.5769969,17.3863886 27.4214785,17.4687981" id="Fill-5" fill="#00B29F"></path>
+                    <path d="M50.8430672,32.5114253 L50.8430672,32.5114253 L35.1996446,32.5114253 L35.1996446,32.5087952 L27.417677,46.2334842 L27.419405,46.2334842 C27.5723314,46.315017 27.7269858,46.3939197 27.8825042,46.471069 L50.8145555,33.03306 C50.8266513,32.859474 50.8361552,32.685888 50.8430672,32.5114253" id="Fill-7" fill="#5AAAFA"></path>
+                    <path d="M41.0827327,46.8130684 C42.9878331,45.9951103 44.6993994,44.82472 46.1690482,43.332582 C47.639561,41.8413207 48.7929891,40.1045843 49.5990928,38.1714678 C50.0708319,37.0405288 50.4103804,35.8692619 50.6168743,34.6681872 L29.3808375,47.1137755 C31.1295555,47.7607777 32.9672645,48.0886623 34.854221,48.0886623 C37.0150627,48.0886623 39.1111051,47.6590809 41.0827327,46.8130684" id="Fill-9" fill="#5AAAFA"></path>
+                    <path d="M34.0703219,31.8475905 L34.0711859,31.8458371 L34.0694579,31.8467138 L26.2926742,18.1307919 C26.2918102,18.1316686 26.2900822,18.1325452 26.2892182,18.1334219 C26.2339228,18.1684898 25.8451268,18.4288688 25.8451268,18.4297455 L25.8390789,45.269819 C25.9807734,45.368009 26.1241959,45.4644457 26.2693464,45.5582523 L26.2693464,45.5582523 L34.0703219,31.8475905 Z" id="Fill-11" fill="#94A3AB"></path>
+                    <polygon id="Fill-13" fill="#90908F" points="35.1994719 32.5066912 35.1994719 32.5084446 35.2003358 32.5075679"></polygon>
+                    <g id="Group-17" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="Clip-16"></g>
+                        <path d="M33.7368645,12.4993298 C42.5806773,12.4993298 49.868442,19.2577856 50.8585758,27.9616318 C50.8862235,28.2053535 50.9086873,28.4490752 50.9259671,28.695427 C50.9259671,28.6971804 50.9259671,28.6998105 50.9268311,28.7015639 L58.8150697,14.8374802 L50.5743227,0.353571833 L34.0928289,0.353571833 L26.1760786,14.2676273 C26.4171321,14.1483965 26.6616416,14.0335492 26.909607,13.9257155 C29.0030574,13.0078139 31.3116416,12.4993298 33.7368645,12.4993298" id="Fill-15" fill="#00B29F" mask="url(#mask-12)"></path>
+                    </g>
+                    <polygon id="Fill-18" fill="#90908F" points="27.6354891 48.1368807 27.6354891 48.1368807 27.3235884 47.5871917 27.3227244 47.5871917"></polygon>
+                    <g id="Group-22" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Clip-21"></g>
+                        <path d="M50.9289911,31.2401273 L50.9289911,31.2418807 C50.9108473,31.4996295 50.8875195,31.7547483 50.8590078,32.0089904 C49.87233,40.7163433 42.5828372,47.478306 33.7372965,47.478306 C31.3086176,47.478306 28.9974415,46.9680684 26.9022631,46.0484135 C26.6672575,45.9458399 26.4348439,45.8371295 26.2058863,45.7240356 L34.1096767,59.6152969 L50.5911706,59.6152969 L58.8319175,45.1322653 L50.9289911,31.2401273 Z" id="Fill-20" fill="#5AAAFA" mask="url(#mask-14)"></path>
+                    </g>
+                    <g id="Group-25" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <g id="Clip-24"></g>
+                        <path d="M24.1061288,15.4822031 L8.24066054,15.4822031 L-8.63991102e-05,29.9652347 L8.24066054,44.4491431 L24.0396014,44.4491431 C24.0370095,44.4473897 24.0352815,44.446513 24.0335535,44.4447596 C23.8270596,44.301858 23.6240217,44.1554497 23.4244398,44.0037811 C19.2211232,40.814358 16.5012793,35.7233795 16.5012793,29.9889055 C16.5012793,24.2509248 19.2237152,19.1581929 23.4304877,15.9687698 C23.6516695,15.8013207 23.8771711,15.6391318 24.1061288,15.4822031" id="Fill-23" fill="#94A3AB" mask="url(#mask-16)"></path>
+                    </g>
+                </g>
+                <g id="websphere-ico" transform="translate(416.000000, 604.000000)">
+                    <circle id="Oval-16" fill="#6D4CAB" cx="27.5" cy="27.5" r="27.5"></circle>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.8928571" r="17.6785714"></circle>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="27.8928571" cy="27.1071429" rx="17.6785714" ry="5.10714286"></ellipse>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="28.2857143" cy="27.8928571" rx="7.85714286" ry="17.6785714"></ellipse>
+                </g>
+                <g id="Logo" transform="translate(409.000000, 667.000000)">
+                    <path d="M18.8531062,31.851711 C18.8531062,34.0443298 19.2755978,36.1703196 20.1102132,38.1718184 C20.9163169,40.104935 22.069745,41.8416714 23.5402578,43.3329327 C23.8625265,43.6599406 24.196891,43.9720447 24.5424875,44.2683682 L24.5476714,19.4315469 C24.200347,19.7287472 23.8642545,20.0417279 23.5402578,20.3704893 C22.069745,21.8617506 20.9163169,23.598487 20.1102132,25.5316035 C19.2755978,27.5331024 18.8531062,29.6590922 18.8531062,31.851711" id="Fill-1" fill="#94A3AB"></path>
+                    <path d="M46.1693938,20.3704893 C44.699745,18.8792279 42.9881787,17.707961 41.0830783,16.8900028 C39.1105867,16.0439904 37.0154083,15.6144089 34.8545666,15.6144089 C32.9702021,15.6144089 31.135085,15.9414169 29.388959,16.5866657 L50.6163559,29.0278705 C50.408998,27.8294259 50.0694496,26.660789 49.5994384,25.5316035 C48.7933347,23.598487 47.6390426,21.8617506 46.1693938,20.3704893" id="Fill-3" fill="#00B29F"></path>
+                    <path d="M27.4214785,17.4687981 C27.4180226,17.4705515 27.4137026,17.4731816 27.4102467,17.474935 L35.2103581,31.1838433 L50.8425488,31.1838433 C50.8356368,31.0102574 50.8261329,30.8366714 50.8140371,30.6639621 L27.8914897,17.2285831 C27.7333793,17.3066092 27.5769969,17.3863886 27.4214785,17.4687981" id="Fill-5" fill="#00B29F"></path>
+                    <path d="M50.8430672,32.5114253 L50.8430672,32.5114253 L35.1996446,32.5114253 L35.1996446,32.5087952 L27.417677,46.2334842 L27.419405,46.2334842 C27.5723314,46.315017 27.7269858,46.3939197 27.8825042,46.471069 L50.8145555,33.03306 C50.8266513,32.859474 50.8361552,32.685888 50.8430672,32.5114253" id="Fill-7" fill="#5AAAFA"></path>
+                    <path d="M41.0827327,46.8130684 C42.9878331,45.9951103 44.6993994,44.82472 46.1690482,43.332582 C47.639561,41.8413207 48.7929891,40.1045843 49.5990928,38.1714678 C50.0708319,37.0405288 50.4103804,35.8692619 50.6168743,34.6681872 L29.3808375,47.1137755 C31.1295555,47.7607777 32.9672645,48.0886623 34.854221,48.0886623 C37.0150627,48.0886623 39.1111051,47.6590809 41.0827327,46.8130684" id="Fill-9" fill="#5AAAFA"></path>
+                    <path d="M34.0703219,31.8475905 L34.0711859,31.8458371 L34.0694579,31.8467138 L26.2926742,18.1307919 C26.2918102,18.1316686 26.2900822,18.1325452 26.2892182,18.1334219 C26.2339228,18.1684898 25.8451268,18.4288688 25.8451268,18.4297455 L25.8390789,45.269819 C25.9807734,45.368009 26.1241959,45.4644457 26.2693464,45.5582523 L26.2693464,45.5582523 L34.0703219,31.8475905 Z" id="Fill-11" fill="#94A3AB"></path>
+                    <polygon id="Fill-13" fill="#90908F" points="35.1994719 32.5066912 35.1994719 32.5084446 35.2003358 32.5075679"></polygon>
+                    <g id="Group-17" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-18" fill="white">
+                            <use xlink:href="#path-17"></use>
+                        </mask>
+                        <g id="Clip-16"></g>
+                        <path d="M33.7368645,12.4993298 C42.5806773,12.4993298 49.868442,19.2577856 50.8585758,27.9616318 C50.8862235,28.2053535 50.9086873,28.4490752 50.9259671,28.695427 C50.9259671,28.6971804 50.9259671,28.6998105 50.9268311,28.7015639 L58.8150697,14.8374802 L50.5743227,0.353571833 L34.0928289,0.353571833 L26.1760786,14.2676273 C26.4171321,14.1483965 26.6616416,14.0335492 26.909607,13.9257155 C29.0030574,13.0078139 31.3116416,12.4993298 33.7368645,12.4993298" id="Fill-15" fill="#00B29F" mask="url(#mask-18)"></path>
+                    </g>
+                    <polygon id="Fill-18" fill="#90908F" points="27.6354891 48.1368807 27.6354891 48.1368807 27.3235884 47.5871917 27.3227244 47.5871917"></polygon>
+                    <g id="Group-22" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="Clip-21"></g>
+                        <path d="M50.9289911,31.2401273 L50.9289911,31.2418807 C50.9108473,31.4996295 50.8875195,31.7547483 50.8590078,32.0089904 C49.87233,40.7163433 42.5828372,47.478306 33.7372965,47.478306 C31.3086176,47.478306 28.9974415,46.9680684 26.9022631,46.0484135 C26.6672575,45.9458399 26.4348439,45.8371295 26.2058863,45.7240356 L34.1096767,59.6152969 L50.5911706,59.6152969 L58.8319175,45.1322653 L50.9289911,31.2401273 Z" id="Fill-20" fill="#5AAAFA" mask="url(#mask-20)"></path>
+                    </g>
+                    <g id="Group-25" transform="translate(1.117788, 1.862981)">
+                        <mask id="mask-22" fill="white">
+                            <use xlink:href="#path-21"></use>
+                        </mask>
+                        <g id="Clip-24"></g>
+                        <path d="M24.1061288,15.4822031 L8.24066054,15.4822031 L-8.63991102e-05,29.9652347 L8.24066054,44.4491431 L24.0396014,44.4491431 C24.0370095,44.4473897 24.0352815,44.446513 24.0335535,44.4447596 C23.8270596,44.301858 23.6240217,44.1554497 23.4244398,44.0037811 C19.2211232,40.814358 16.5012793,35.7233795 16.5012793,29.9889055 C16.5012793,24.2509248 19.2237152,19.1581929 23.4304877,15.9687698 C23.6516695,15.8013207 23.8771711,15.6391318 24.1061288,15.4822031" id="Fill-23" fill="#94A3AB" mask="url(#mask-22)"></path>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(816.000000, 387.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#95C4FE" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499941836,8.59248555 L0.49698153,34.040521 C1.22866525,40.6691951 9.32714766,43.9449458 24.9924276,43.7076721 C40.6597529,43.4703675 48.7741477,40.1881805 49.5,34.0953786 L49.5,8.59248555 L0.499941836,8.59248555 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="25" cy="8.23699422" rx="25" ry="8.23699422"></ellipse>
+                </g>
+                <g id="Group-2" transform="translate(643.000000, 606.000000)">
+                    <g id="Rectangle">
+                        <use fill="#E3EDD5" fill-rule="evenodd" xlink:href="#path-24"></use>
+                        <rect stroke="#000000" stroke-width="1" x="6.5" y="8.5" width="224" height="116" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#E3EDD5" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="224" height="116" rx="8"></rect>
+                    </g>
+                    <text id="Recommendations-serv" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="16.1365" y="30">Recommendations </tspan>
+                        <tspan x="75.3615" y="53">service</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(734.000000, 668.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#95C4FE" fill-rule="evenodd" xlink:href="#path-26"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499941836,8.59248555 L0.49698153,34.040521 C1.22866525,40.6691951 9.32714766,43.9449458 24.9924276,43.7076721 C40.6597529,43.4703675 48.7741477,40.1881805 49.5,34.0953786 L49.5,8.59248555 L0.499941836,8.59248555 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="25" cy="8.23699422" rx="25" ry="8.23699422"></ellipse>
+                </g>
+                <g id="Group-2" transform="translate(885.000000, 607.000000)">
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        <rect stroke="#000000" stroke-width="1" x="6.5" y="8.5" width="146" height="116" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-28"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="146" height="116" rx="8"></rect>
+                    </g>
+                    <text id="Inventory-service" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="26.8735" y="30">Inventory </tspan>
+                        <tspan x="37.3615" y="53">service</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(1052.000000, 607.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D2ECBB" fill-rule="evenodd" xlink:href="#path-29"></use>
+                        <rect stroke="#000000" stroke-width="1" x="6.5" y="8.5" width="146" height="116" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#D2ECBB" fill-rule="evenodd" xlink:href="#path-30"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="146" height="116" rx="8"></rect>
+                    </g>
+                    <text id="Billing-service" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="43.7555" y="30">Billing </tspan>
+                        <tspan x="37.3615" y="53">service</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(929.000000, 668.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#95C4FE" fill-rule="evenodd" xlink:href="#path-31"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499941836,8.59248555 L0.49698153,34.040521 C1.22866525,40.6691951 9.32714766,43.9449458 24.9924276,43.7076721 C40.6597529,43.4703675 48.7741477,40.1881805 49.5,34.0953786 L49.5,8.59248555 L0.499941836,8.59248555 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="25" cy="8.23699422" rx="25" ry="8.23699422"></ellipse>
+                </g>
+                <g id="Group-4" transform="translate(1100.000000, 668.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#95C4FE" fill-rule="evenodd" xlink:href="#path-32"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499941836,8.59248555 L0.49698153,34.040521 C1.22866525,40.6691951 9.32714766,43.9449458 24.9924276,43.7076721 C40.6597529,43.4703675 48.7741477,40.1881805 49.5,34.0953786 L49.5,8.59248555 L0.499941836,8.59248555 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="25" cy="8.23699422" rx="25" ry="8.23699422"></ellipse>
+                </g>
+                <g id="Group-2" transform="translate(485.000000, 606.000000)">
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-33"></use>
+                        <rect stroke="#000000" stroke-width="1" x="6.5" y="8.5" width="138" height="116" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#77A7F9" fill-rule="evenodd" xlink:href="#path-34"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="138" height="116" rx="8"></rect>
+                    </g>
+                    <text id="Catalog-service" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="23" font-weight="normal" fill="#000000">
+                        <tspan x="28.015" y="30">Catalog</tspan>
+                        <tspan x="31.3615" y="53">service</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(527.000000, 669.000000)">
+                    <g id="Rectangle-28">
+                        <use fill="#95C4FE" fill-rule="evenodd" xlink:href="#path-35"></use>
+                        <path stroke="#000000" stroke-width="1" d="M0.499941836,8.59248555 L0.49698153,34.040521 C1.22866525,40.6691951 9.32714766,43.9449458 24.9924276,43.7076721 C40.6597529,43.4703675 48.7741477,40.1881805 49.5,34.0953786 L49.5,8.59248555 L0.499941836,8.59248555 Z"></path>
+                    </g>
+                    <ellipse id="Oval-17" stroke="#000000" fill="#CBE4FF" cx="25" cy="8.23699422" rx="25" ry="8.23699422"></ellipse>
+                </g>
+                <g id="Rectangle-29" opacity="0.973562047">
+                    <use fill="#6C93E5" fill-rule="evenodd" xlink:href="#path-36"></use>
+                    <path stroke="#7C94E5" stroke-width="1" d="M427.5,247.740343 L427.5,301 L534.5,301 L534.5,330.314814 L590.784992,275.479221 L534.5,220.192004 L534.5,247.740343 L427.5,247.740343 Z"></path>
+                </g>
+                <text id="3rd-Party" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="729.198" y="758">3rd Party</tspan>
+                </text>
+                <text id="Existing" font-family="HelvNeueRomanforIBM, HelvNeue Roman for IBM" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="1098.571" y="758">Existing</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
